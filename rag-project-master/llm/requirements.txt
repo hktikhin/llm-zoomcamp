@@ -1,0 +1,3 @@
+spacy
+elasticsearch
+en-core-web-sm
